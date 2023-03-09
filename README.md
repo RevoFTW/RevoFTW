@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anaxd._s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anaxd._s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/revo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="revo" height="30" width="40" /></a>
-<a href="https://discord.gg/Revo#0911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Revo#0911" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/UCCO0QRXsnTnw-Q3VxWdKJiQ](https://www.youtube.com/channel/UCCO0QRXsnTnw-Q3VxWdKJiQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="revo" height="30" width="40" /></a>
+<a href="https://discord.gg/[Revo#0911](https://discord.gg/c3RWHe96)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Revo#0911" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
